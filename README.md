@@ -1,4 +1,4 @@
-# 🎯 QR Code Generator (Python + Tkinter)
+# QR Code Generator (Python + Tkinter)
 
 A simple yet powerful **QR Code Generator** built with Python, Tkinter, Pillow, and the `qrcode` library.  
 Generate custom QR codes from any text or URL, choose your own colors, preview them instantly, and save them as PNG files.  
@@ -6,17 +6,17 @@ Generate custom QR codes from any text or URL, choose your own colors, preview t
 
 ---
 
-## 📌 Features
-- ✅ Generate QR Codes from text or URLs.
-- 🎨 Custom Colors — set QR foreground and background colors.
-- 🔍 Instant Preview — see the QR code before saving.
-- 💾 Save as PNG — store your QR codes locally.
-- 🖥 Desktop Application — works offline, no internet required.
-- 🔒 Privacy-Friendly — your data stays on your device.
+# Features
+- Generate QR Codes from text or URLs.
+- Custom Colors — set QR foreground and background colors.
+- Instant Preview — see the QR code before saving.
+- Save as PNG — store your QR codes locally.
+- Desktop Application — works offline, no internet required.
+- Privacy-Friendly — your data stays on your device.
 
 ---
 
-## 🛠️ Installation
+# Installation
 
 ### 1. Clone the repository
 ```bash
@@ -31,7 +31,7 @@ pip install qrcode[pil] pillow
 
 ---
 
-## 🚀 Usage
+# Usage
 
 Run the script:
 ```bash
@@ -46,7 +46,7 @@ python qr_code_generator.py
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 ```
 qr-code-generator/
 │-- qr_code_generator.py   # Main application file
@@ -55,7 +55,7 @@ qr-code-generator/
 
 ---
 
-## 🧠 How It Works
+# How It Works
 - Uses the [`qrcode`](https://pypi.org/project/qrcode/) library to generate QR code data.
 - Uses **Pillow (PIL)** for image manipulation and display.
 - Uses **Tkinter** to create the desktop GUI, including:
@@ -67,7 +67,7 @@ qr-code-generator/
 
 ---
 
-## 💡 Example Uses
+# Example Uses
 - Event tickets with QR codes.
 - Restaurant digital menus.
 - Wi-Fi password sharing.
@@ -76,12 +76,12 @@ qr-code-generator/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License** — feel free to use and modify it.
 
 ---
 
-## 🙌 Acknowledgments
+# Acknowledgments
 - [qrcode](https://github.com/lincolnloop/python-qrcode) for QR code generation.
 - [Pillow](https://python-pillow.org/) for image processing.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI.
