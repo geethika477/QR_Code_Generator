@@ -76,8 +76,8 @@ qr-code-generator/
 
 ---
 
-## License
-This project is licensed under the **MIT License** — feel free to use and modify it.
+# License
+This project is open for learning and personal use.
 
 ---
 
